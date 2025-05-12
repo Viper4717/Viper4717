@@ -47,9 +47,10 @@
 </tr>
 </table>
 <div>
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viper4717&show_icons=true&locale=en&layout=compact" alt="Viper4717" />
 
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=Viper4717&show_icons=true&locale=en" alt="Viper4717" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Viper4717&show_icons=true&locale=en&layout=compact" alt="Viper4717" /></p>
 
-<img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Viper4717&" alt="Viper4717" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Viper4717&show_icons=true&locale=en" alt="Viper4717" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Viper4717&" alt="Viper4717" /></p>
 </div>
