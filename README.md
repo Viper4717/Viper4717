@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A M Aahad</h1>
-<h3 align="center">PhD Student || Researcher || Computer Vision || Deep Learning</h3>
+
 <h3 align="center">
   <img src="https://www.nicepng.com/png/detail/143-1436210_banner-transparent-library-to-face-saturday-night-in.png" alt="OSU logo" width="30" style="vertical-align: middle; margin-right: 20px;">
   PhD Student || Researcher || Computer Vision || Deep Learning
